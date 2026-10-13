@@ -46,7 +46,7 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
         ) {
             Text(
                 text = "Teknologi Informasi",
-                fontSize = 29.sp,
+                fontSize = 31.sp,
                 fontWeight = FontWeight.Bold,
                 color = DeepGreen,
                 textAlign = TextAlign.Center,
