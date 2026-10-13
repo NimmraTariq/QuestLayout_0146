@@ -53,7 +53,7 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 lineHeight = 35.sp
             )
 
-            Spacer(modifier = Modifier.height(10.dp))
+            Spacer(modifier = Modifier.height(11.dp))
 
             Text(
                 text = "Universitas Muhammadiyah\nYogyakarta",
