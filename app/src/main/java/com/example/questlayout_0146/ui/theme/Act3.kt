@@ -40,7 +40,7 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 .padding(
                     start = 16.dp,
                     end = 16.dp,
-                    top = 64.dp
+                    top = 60.dp
                 ),
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
