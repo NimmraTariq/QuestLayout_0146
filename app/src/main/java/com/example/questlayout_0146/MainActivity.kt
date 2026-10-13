@@ -14,6 +14,7 @@ import com.example.questlayout_0146.ui.theme.QuestLayout_0146Theme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        // Allow the app to draw edge-to-edge on the screen.
         enableEdgeToEdge()
 
         setContent {
