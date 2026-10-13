@@ -108,7 +108,7 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                         modifier = Modifier
                             .width(2.dp)
                             .height(125.dp)
-                            .background(Gold.copy(alpha = 0.8f))
+                            .background(Gold.copy(alpha = 0.9f))
                     )
 
                     // Right section: university and department name
