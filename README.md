@@ -4,6 +4,11 @@ An Android application introducing the Information Technology program at Univers
 
 This project is built using Kotlin and Jetpack Compose in Android Studio.
 
+## App Preview
+
+![UMY Introduction Screen](screenshots/umy-introduction.png)
+
+
 ## Features
 
 - Displays the Information Technology program title.
