@@ -137,7 +137,7 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
 
                             Text(
                                 text = "Universitas\nMuhammadiyah\nYogyakarta",
-                                fontSize = 14.sp,
+                                fontSize = 15.sp,
                                 lineHeight = 18.sp,
                                 fontWeight = FontWeight.Medium,
                                 color = Gold,
