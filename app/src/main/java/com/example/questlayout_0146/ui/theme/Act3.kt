@@ -63,7 +63,7 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 lineHeight = 25.sp
             )
 
-            Spacer(modifier = Modifier.height(32.dp))
+            Spacer(modifier = Modifier.height(34.dp))
 
             Card(
                 modifier = Modifier
